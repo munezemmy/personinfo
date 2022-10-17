@@ -9,6 +9,7 @@ public class Person {
     private String lastName;
     private String email;
     private String address;
+    private int age;
 
 
 }
